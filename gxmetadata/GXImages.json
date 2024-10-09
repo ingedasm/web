@@ -1,0 +1,50 @@
+{ 
+    "Resources" : [ { 
+        "IsDefault" : true,
+        "ResourceFile" : "Images_DEFAULT.json"
+    }, { 
+        "Language" : "Spanish",
+        "Theme" : "GeneXusUnanimo.UnanimoWeb",
+        "ResourceFile" : "Images_Spanish_GeneXusUnanimo_UnanimoWeb.json"
+    }, { 
+        "Language" : "Spanish",
+        "Theme" : "GeneXusUnanimo.Unanimo",
+        "ResourceFile" : "Images_Spanish_GeneXusUnanimo_Unanimo.json"
+    }, { 
+        "Language" : "Spanish",
+        "Theme" : "GeneXusUnanimo.UnanimoControls",
+        "ResourceFile" : "Images_Spanish_GeneXusUnanimo_UnanimoControls.json"
+    }, { 
+        "Language" : "Spanish",
+        "Theme" : "GeneXusUnanimo.UnanimoMobile",
+        "ResourceFile" : "Images_Spanish_GeneXusUnanimo_UnanimoMobile.json"
+    }, { 
+        "Language" : "Spanish",
+        "Theme" : "GeneXusUnanimo.UnanimoAngular",
+        "ResourceFile" : "Images_Spanish_GeneXusUnanimo_UnanimoAngular.json"
+    }, { 
+        "Language" : "Spanish",
+        "Theme" : "DSLogin",
+        "ResourceFile" : "Images_Spanish_DSLogin.json"
+    }, { 
+        "Language" : "Spanish",
+        "Theme" : "IndicadroresPalmas",
+        "ResourceFile" : "Images_Spanish_IndicadroresPalmas.json"
+    }, { 
+        "Language" : "Spanish",
+        "Theme" : "DSMenuIndicadores",
+        "ResourceFile" : "Images_Spanish_DSMenuIndicadores.json"
+    }, { 
+        "Language" : "Spanish",
+        "Theme" : "DSUnanimoWeb",
+        "ResourceFile" : "Images_Spanish_DSUnanimoWeb.json"
+    }, { 
+        "Language" : "Spanish",
+        "Theme" : "DSUnanimo",
+        "ResourceFile" : "Images_Spanish_DSUnanimo.json"
+    }, { 
+        "Language" : "Spanish",
+        "Theme" : "DSUnanimoControls",
+        "ResourceFile" : "Images_Spanish_DSUnanimoControls.json"
+    } ]
+}

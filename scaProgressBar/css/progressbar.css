@@ -1,0 +1,23 @@
+div.progress-container {
+  border: 1px solid #ccc; 
+  width: 200px; 
+  margin: 2px 5px 2px 0; 
+  padding: 1px; 
+  position:relative;
+}
+
+
+div.progress-container div {
+ 
+}
+
+
+div.progress-container  span {
+ width:100%;
+ height:100%;
+ vertical-align: middle;
+ text-align:center;
+ float:left;
+ font: normal 12px Arial,sans-serif;
+ position: absolute;
+}

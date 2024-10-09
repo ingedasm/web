@@ -1,0 +1,14 @@
+@layer DSMenuIndicadores{
+:root
+{
+	--colors_white : #fff;
+	--colors_whitesmoke : #F5F5F5;
+	--colors_gray : #808080;
+	--colors_cyan : #1AAB8A;
+	--colors_dark-shade : #212529;
+	--colors_yellow-shade : #eeb30d;
+	--colors_green : #61ac26;
+	--colors_dark-green : #276f2f;
+
+}
+}

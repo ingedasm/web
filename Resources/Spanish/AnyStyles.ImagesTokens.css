@@ -1,0 +1,38 @@
+@layer AnyStylesImagesTokens {
+:root
+{
+	--GX-Image_selectRow : url(../selectRow.png);
+	--GX-Image_PageFirst : url(PageFirst.gif);
+	--GX-Image_PageLast : url(PageLast.gif);
+	--GX-Image_PageNext : url(PageNext.gif);
+	--GX-Image_PagePrevious : url(PagePrevious.gif);
+	--GX-Image_logopalmas : url(../logopalmas.png);
+	--GX-Image_fondopalmas : url(../fondopalmas.jpg);
+	--GX-Image_fondopalcesar : url(../fondopalcesar.png);
+	--GX-Image_Logopalcesar : url(../Logopalcesar.png);
+	--GX-Image_Logopalmas2 : url(../Logopalmas2.png);
+	--GX-Image_Exit : url(../Exit.png);
+	--GX-Image_salida : url(../salida.png);
+	--GX-Image_fondopalmascesar : url(../fondopalmascesar.png);
+	--GX-Image_excel : url(../excel.png);
+	--GX-Image_pdf : url(../pdf.png);
+	--GX-Image_delete : url(../delete.png);
+}
+
+.GX_Image_selectRow_Class{content: var(--GX-Image_selectRow);}
+.GX_Image_PageFirst_Class{content: var(--GX-Image_PageFirst);}
+.GX_Image_PageLast_Class{content: var(--GX-Image_PageLast);}
+.GX_Image_PageNext_Class{content: var(--GX-Image_PageNext);}
+.GX_Image_PagePrevious_Class{content: var(--GX-Image_PagePrevious);}
+.GX_Image_logopalmas_Class{content: var(--GX-Image_logopalmas);}
+.GX_Image_fondopalmas_Class{content: var(--GX-Image_fondopalmas);}
+.GX_Image_fondopalcesar_Class{content: var(--GX-Image_fondopalcesar);}
+.GX_Image_Logopalcesar_Class{content: var(--GX-Image_Logopalcesar);}
+.GX_Image_Logopalmas2_Class{content: var(--GX-Image_Logopalmas2);}
+.GX_Image_Exit_Class{content: var(--GX-Image_Exit);}
+.GX_Image_salida_Class{content: var(--GX-Image_salida);}
+.GX_Image_fondopalmascesar_Class{content: var(--GX-Image_fondopalmascesar);}
+.GX_Image_excel_Class{content: var(--GX-Image_excel);}
+.GX_Image_pdf_Class{content: var(--GX-Image_pdf);}
+.GX_Image_delete_Class{content: var(--GX-Image_delete);}
+}

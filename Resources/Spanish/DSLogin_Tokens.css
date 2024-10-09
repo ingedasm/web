@@ -1,0 +1,11 @@
+@layer DSLogin{
+:root
+{
+	--colors_white : #fff;
+	--colors_gray : #808080;
+	--colors_cyan : #1AAB8A;
+	--colors_dark-shade : #212529;
+	--colors_yellow-shade : #eeb30d;
+
+}
+}
